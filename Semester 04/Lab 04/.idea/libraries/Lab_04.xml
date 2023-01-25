@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Lab 04">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/CircularLinkedList.zip!/" />
+      <root url="jar://$PROJECT_DIR$/PriorityQueues.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
