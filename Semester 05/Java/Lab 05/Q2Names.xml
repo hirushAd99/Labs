@@ -1,0 +1,37 @@
+<?xml version = "1.0" ?>
+<people>
+	<person id = "1">
+		<lastname>Doe</lastname>
+		<firstname>John</firstname>
+	</person>
+	<person id = "2">
+		<lastname>Smith</lastname>
+		<firstname>Jim</firstname>
+	</person>
+	<person id = "3">
+		<lastname>Dawid</lastname>
+		<firstname>Jaya</firstname>
+	</person>
+	<person id = "4">
+		<lastname>Warun</lastname>
+		<firstname>Steve</firstname>
+	</person>
+	<person id = "5">
+		<lastname>Josh</lastname>
+		<firstname>Mitchel</firstname>
+	</person>
+	<person id = "6">
+		<lastname>Ben</lastname>
+		<firstname>Cutting</firstname>
+	</person>
+	<person id = "7">
+		<lastname>Jos</lastname>
+		<firstname>Malan</firstname>
+	</person>
+	<person id = "8">
+		<lastname>Mish</lastname>
+		<firstname>Marsh</firstname>
+	</person>
+</people>
+
+	

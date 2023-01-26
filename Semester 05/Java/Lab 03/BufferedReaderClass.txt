@@ -1,0 +1,19 @@
+import java.io.BufferedReader;
+import java.io.FileReader;
+import java.util.Collection;
+
+public class BufferedReaderClass {
+    public Collection<? extends Integer> readFile () throws Exception
+    {
+        FileReader fr = new FileReader("C:\\Users\\RCS\\Desktop\\Software Construction\\LAB03_2019E166\\AccountDetails.txt");
+        BufferedReader br = new BufferedReader(fr);
+        String st;
+        while ((st = br.readLine()) != null)
+        {
+            System.out.println(st);
+        }
+        br.close();
+        fr.close();
+        return null;
+    }
+}

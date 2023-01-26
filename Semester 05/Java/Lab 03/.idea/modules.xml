@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EC5080_Lab3_2019E166/EC5080_Lab3_2019E166.iml" filepath="$PROJECT_DIR$/EC5080_Lab3_2019E166/EC5080_Lab3_2019E166.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/LAB03_2019E166.iml" filepath="$PROJECT_DIR$/.idea/LAB03_2019E166.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LAB03_Question01_2019E166/LAB03_Question01_2019E166.iml" filepath="$PROJECT_DIR$/LAB03_Question01_2019E166/LAB03_Question01_2019E166.iml" />
+      <module fileurl="file://$PROJECT_DIR$/New folder/Question 01/Question 01.iml" filepath="$PROJECT_DIR$/New folder/Question 01/Question 01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/New folder/Question 02/Question 02.iml" filepath="$PROJECT_DIR$/New folder/Question 02/Question 02.iml" />
+    </modules>
+  </component>
+</project>

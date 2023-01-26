@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Lab 01.iml" filepath="$PROJECT_DIR$/.idea/Lab 01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NetBeansProjects/Lab01/Lab01.iml" filepath="$PROJECT_DIR$/NetBeansProjects/Lab01/Lab01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NetBeansProjects/Question02Lab01/Question02Lab01.iml" filepath="$PROJECT_DIR$/NetBeansProjects/Question02Lab01/Question02Lab01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NetBeansProjects/Question03Lab01/Question03Lab01.iml" filepath="$PROJECT_DIR$/NetBeansProjects/Question03Lab01/Question03Lab01.iml" />
+    </modules>
+  </component>
+</project>

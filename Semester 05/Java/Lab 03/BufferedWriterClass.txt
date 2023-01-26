@@ -1,0 +1,13 @@
+import java.io.BufferedWriter;
+import java.io.FileWriter;
+
+public class BufferedWriterClass {
+    public static void main(String[] args) throws Exception{
+        FileWriter writer = new FileWriter("C:\\Users\\RCS\\Desktop\\Software Construction\\LAB03_2019E166\\AccountDetailsATMDetails.txt");
+        BufferedWriter buffer = new BufferedWriter(writer);
+        buffer.write("");
+        buffer.close();
+        System.out.println("Success");
+        
+    }
+}

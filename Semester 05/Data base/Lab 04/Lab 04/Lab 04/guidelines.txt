@@ -1,0 +1,4 @@
+OPT_LOCAL_INFILE=1
+
+set Global local_infile=1;
+

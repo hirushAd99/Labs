@@ -1,0 +1,24 @@
+Jaffna,Elephant Pass,80
+Ariviyalnagar,Vauniya,68
+Anuradhapura,Colombo,250
+Vauniya,Anuradhapura,70
+Killinochchi,Ariviyalnagar,8
+Elephant Pass,Paranthan,12
+Vauniya,Trinco,140
+Anuradhapura,Trinco,100
+Anuradhapura,Kandy,120
+Paranthan,Killinochchi,10
+
+
+
+Jaffna,Elephant Pass
+Killinochchi,Vauniya
+Vauniya,Colombo
+Vauniya,Anuradhapura
+Killinochchi,Ariviyalnagar
+Elephant Pass,Paranthan
+Ariviyalnagar,Vauniya
+Vauniya,Trinco
+Trinco,Anuradhapura
+Anuradhapura,Kandy
+Paranthan,Killinochchi

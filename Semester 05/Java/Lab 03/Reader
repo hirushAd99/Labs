@@ -1,0 +1,20 @@
+public static void main(String[] args)throws Exception {
+        FileReader fr = new FileReader("C:\\Users\\TEMP.jfn.000\\Downloads\\Read&Writer\\AccountDetails");
+        BufferedReader br = new BufferedReader(fr);
+        /**
+        int i ;
+        while((i=br.read())!=-1){
+            System.out.println((char)i);
+        }
+
+
+        String st;
+        while ((st = br.readLine()) != null)
+        {
+            System.out.println(st);
+        }
+
+
+        br.close();
+        fr.close();
+    }
